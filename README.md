@@ -55,14 +55,14 @@ Se você recebeu este projeto em formato .zip com o ambiente virtual e o script 
 
 > ⚠️ Certifique-se de que a pasta venv/ esteja presente!
 
-├── app.py                           # Código principal do Streamlit
-├── iniciar_app.bat                  # Script para iniciar o app facilmente
-├── projetos_1000.csv                # Base de dados artificial usada para treino
-├── novos_projetos_teste.csv         # Exemplo de novos dados para re-treinamento
-├── logistic_model.joblib            # Modelo pré-treinado inicial
-├── logistic_model_atualizado.joblib # Modelo gerado após novo treino
-├── requirements.txt                 # Dependências do projeto
-├── venv/                            # Ambiente virtual (não versionado no GitHub)
+> ├── app.py                           # Código principal do Streamlit
+> ├── iniciar_app.bat                  # Script para iniciar o app facilmente
+> ├── projetos_1000.csv                # Base de dados artificial usada para treino
+> ├── novos_projetos_teste.csv         # Exemplo de novos dados para re-treinamento
+> ├── logistic_model.joblib            # Modelo pré-treinado inicial
+> ├── logistic_model_atualizado.joblib # Modelo gerado após novo treino
+> ├── requirements.txt                 # Dependências do projeto
+> ├── venv/                            # Ambiente virtual (não versionado no GitHub)
 
 
 ### 📊 Formato dos dados esperados
