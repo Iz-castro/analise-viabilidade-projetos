@@ -52,10 +52,10 @@ streamlit run app.py
 
 ### 🧰 Opção 2 — Usar com `.bat` (modo simples para usuários finais)
 
-Se você recebeu este projeto em formato .zip com o ambiente virtual e o script iniciar_app.bat:
+Se você recebeu este projeto em formato `.zip` com o ambiente virtual e o script iniciar_app.bat:
 
 1. Extraia a pasta para qualquer lugar no seu computador
-2. Dê dois cliques no arquivo iniciar_app.bat
+2. Dê dois cliques no arquivo `iniciar_app.bat`
 3. O navegador abrirá automaticamente com o app
 
 ⚠️ Certifique-se de que a pasta venv/ esteja presente!
